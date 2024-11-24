@@ -1,0 +1,20 @@
+{
+  "name": "coldchain",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "gananche": "gananche-cli -m\"candy maple cake sugar pudding cream honey rich smooth crumble sweet treat\"",
+    "test": "truffle test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "web3": "^4.12.1"
+  }
+}
